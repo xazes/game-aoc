@@ -26,7 +26,7 @@ if ( !defined('EQDKP_INC') ){
 if(!class_exists('aoc')){
 	class aoc extends game_generic {
 		protected static $apiLevel	= 20;
-		public $version				= '2.1';
+		public $version				= '2.2';
 		protected $this_game		= 'aoc';
 		protected $types			= array('classes', 'races', 'factions', 'filters');
 		protected $classes			= array();
