@@ -45,16 +45,20 @@ $english_array = array(
 		3	=> 'Stygian',
 		4	=> 'Khitan'
 	),
+	'roles' => array(
+		0	=> 'Unknown',
+		1	=> 'Soldier',
+		2	=> 'Priest',
+		3	=> 'Rogue',
+		4	=> 'Mage',
+			
+	),
 	'factions' => array(
 		'good'	=> 'Good',
 		'evil'	=> 'Evil'
 	),
 	'lang' => array(
 		'aoc'							=> 'Age of Conan',
-		'rogue'							=> 'Rogue',
-		'soldier'						=> 'Soldier',
-		'mage'							=> 'Mage',
-		'priest'						=> 'Priest',
 		'uc_race'						=> 'Race',
 		'uc_class'						=> 'Class',
 
