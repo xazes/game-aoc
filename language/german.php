@@ -35,7 +35,7 @@ $german_array = array(
 		8	=> 'Herold des Xotli',
 		9	=> 'Nekromant',
 		10	=> 'Bärenschamane',
-		11	=> 'Mitrapriester',
+		11	=> 'Mitra-Priester',
 		12	=> 'Vollstrecker Sets'
 	),
 	'races' => array(
@@ -45,16 +45,20 @@ $german_array = array(
 		3	=> 'Stygier',
 		4	=> 'Khitaner'
 	),
+	'roles' => array(
+		0	=> 'Unbekannt',
+		1	=> 'Soldat',
+		2	=> 'Priester',
+		3	=> 'Schurke',
+		4	=> 'Magier',
+			
+	),
 	'factions' => array(
 		'good'	=> 'Gut',
 		'evil'	=> 'Böse'
 	),
 	'lang' => array(
 		'aoc'							=> 'Age of Conan',
-		'rogue'							=> 'Schurke',
-		'soldier'						=> 'Soldat',
-		'mage'							=> 'Magier',
-		'priest'						=> 'Priester',
 		'uc_race'						=> 'Rasse',
 		'uc_class'						=> 'Klasse',
 
